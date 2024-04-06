@@ -1,9 +1,28 @@
 # lista-de-usuarios
 ## Projeto lista de usuários
 
-![Angular](https://skillicons.dev/icons?i=angular)
-![Typescript](https://skillicons.dev/icons?i=ts)
+![Angular](https://skillicons.dev/icons?i=angular).
+![Typescript](https://skillicons.dev/icons?i=ts).
 
+## Tabela de conteúdos
+
+- [Instalação](#instalação)
+- [Uso](#uso)
+
+## Instalação
+
+1. Copie o repositório:
+
+```bash
+git clone https://github.com/OliverBR1/Lista-De-Usuarios.git
+```
+
+2. Instalar dependências do NodeJS
+```
+npm install
+```
+
+## Uso
 
 # ListaDeUsuarios
 Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
