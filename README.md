@@ -1,27 +1,33 @@
+# lista-de-usuarios
+## Projeto lista de usuários
+
+![Angular](https://skillicons.dev/icons?i=angular)
+![Typescript](https://skillicons.dev/icons?i=ts)
+
+
 # ListaDeUsuarios
+Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+## Servidor de Desenvolvimento
 
-## Development server
+Execute o comando `ng serve` para iniciar o servidor de desenvolvimento. Navegue com `http://localhost:4200/`. A aplicação será automaticamente recarregada se você alterar algum dos arquivos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Andaime de código /Code scaffolding
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute o comando `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute o comando `ng build` para iniciar o build do seu projeto. Os artefatos de construção serão armazenados no `dist/` diretório.
 
-## Running unit tests
+## Iniciando testes unitários
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute o comando `ng test` para iniciar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Iniciando testes ponta a ponta / end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Execute o comando `ng e2e` para executar os testes ponta a ponta por meio de uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente recursos de teste ponta a ponta.
 
-## Further help
+## Mais ajuda
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira a página [Visão geral do Angular CLI e referência de comandos](https://angular.io/cli).
