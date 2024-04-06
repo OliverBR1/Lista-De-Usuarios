@@ -1,8 +1,8 @@
 # lista-de-usuarios
 ## Projeto lista de usuários
 
-![Angular](https://skillicons.dev/icons?i=angular).
-![Typescript](https://skillicons.dev/icons?i=ts).
+![Angular](https://skillicons.dev/icons?i=angular)
+![Typescript](https://skillicons.dev/icons?i=ts)
 
 ## Tabela de conteúdos
 
@@ -25,7 +25,7 @@ npm install
 ## Uso
 
 # ListaDeUsuarios
-Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 17.3.2.
 
 ## Servidor de Desenvolvimento
 
